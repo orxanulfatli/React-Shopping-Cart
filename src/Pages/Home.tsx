@@ -23,7 +23,7 @@ const Home:React.FC = () => {
   }
 
   if (error) {
-    return <div>error ble</div>;
+    return <div>error </div>;
   }
   return null;
 };
